@@ -1,6 +1,6 @@
 # "DoItWell" interface
 
-Many of you dream about to make things easier. We present you final achievment in IT world: the "DoItWell" interface.
+Many of you dream about making things easier. We present you final achievment in IT world: the "DoItWell" interface.
 It is as simple as it can be, but yet powerfull.
 
 ```
